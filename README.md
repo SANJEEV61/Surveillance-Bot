@@ -18,7 +18,7 @@
   self-driving robot periodically around the city to automatically maintain clean and levelled roads.
 
 - ## Demo 🪧
-  A live demo of the project can be found here https://youtu.be/-Az4yCxLQd8. 🔗
+  A live demo of the project can be found here https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/d8e3e67c-355e-496c-a8ec-76a50e55fd08. 🔗
 
 - ## Features 😍
   This robot detects ANY PROBLEM on the road and resolves it by levelling the road. Every Sunday (7th day of the week or any frequency required), the robot automatically surveys each and every road of a city to 
