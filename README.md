@@ -5,7 +5,7 @@
 - [Demo](#demo) 🪧
 - [Features](#features) 😍
 - [Snapshots](#SnapShots) 🖼️
-- [Usage](#usage) ⭐
+
 
 - ## Project Description ❗
   The yearly occurrence of unnecessary accidents is a result of bad techniques of construction, no maintenance and repair, various organizations taking charge with unclear responsibilities and bureaucratic 
