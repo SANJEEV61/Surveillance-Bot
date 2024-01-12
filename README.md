@@ -21,11 +21,11 @@
   A live demo of the project can be found here https://youtu.be/-Az4yCxLQd8. 🔗
 
 - ## Features 😍
- This robot detects ANY PROBLEM on the road and resolves it by levelling the road. Every Sunday (7th day of the week or any frequency required), the robot automatically surveys each and every road of a city to 
- detect ABNORMAL, PROBLEMATIC roads. This robot can contribute to Swach Bharath because it also detects any garbage or dust piles present on the road and cleans it as and when! It is completely self-driving so no 
- manual intervention is required. Built-in camera that stores images of ALL roads with problems so that a traveler gets to know instantly if there is any damage to the road. In case the authority like BBMP just 
- wants to detect problems and resolve it later, it sends a message to the authority with the exact Google maps location so that the BBMP can record the problems and resolve it at a later time. It records the 
- ABNORMAL, PROBLEMATIC roads in the database (Memory card) the list of all roads that are damaged.
+  This robot detects ANY PROBLEM on the road and resolves it by levelling the road. Every Sunday (7th day of the week or any frequency required), the robot automatically surveys each and every road of a city to 
+  detect ABNORMAL, PROBLEMATIC roads. This robot can contribute to Swach Bharath because it also detects any garbage or dust piles present on the road and cleans it as and when! It is completely self-driving so 
+  no manual intervention is required. Built-in camera that stores images of ALL roads with problems so that a traveler gets to know instantly if there is any damage to the road. In case the authority like BBMP 
+  just wants to detect problems and resolve it later, it sends a message to the authority with the exact Google maps location so that the BBMP can record the problems and resolve it at a later time. It records 
+  the ABNORMAL, PROBLEMATIC roads in the database (Memory card) the list of all roads that are damaged.
 
 - ## Snapshots 🖼️
   ![IMG20230505111520](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/3e258d61-b190-4571-9078-9ea1d35f8589)
