@@ -28,6 +28,17 @@
  ABNORMAL, PROBLEMATIC roads in the database (Memory card) the list of all roads that are damaged.
 
 - ## Snapshots 🖼️
-- ![image](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/02c60f01-944e-4715-b43a-23cc8f9fb984)
+  ![IMG20230505111520](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/3e258d61-b190-4571-9078-9ea1d35f8589)
+  ![IMG20230427092235](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/bf5af909-e40f-4fdb-903a-ab0727fba657)
+  ![Picsart_23-04-27_09-39-45-874](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/6ad7f0a6-0d94-425f-8fe5-7b903ba3af83)
+  ![IMG_20230430_130633](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/7c8e8687-d550-498a-8df9-827957104fdf)
+  ![Live location](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/cf3a2c35-4d9c-4df3-ae03-ac0c6f8d2e90)
+  ![tracking via google maps](https://github.com/SANJEEV61/Surveillance-Bot/assets/89179742/05132cf8-5283-43dc-b404-3359c8ce3aa7)
+
+
+
+
+
+
 
  
